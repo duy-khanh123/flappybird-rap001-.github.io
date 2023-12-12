@@ -4,7 +4,7 @@
 import pygame
 from pygame.locals import *
 import random
-m
+mm
 pygame.init()
 
 clock = pygame.time.Clock()
